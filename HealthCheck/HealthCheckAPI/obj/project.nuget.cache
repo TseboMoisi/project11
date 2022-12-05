@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "57qKdV7BJh7U4HP1iZN7/LN+8i8XCEbRFBATWTiU6xIM8nZpQ/BnLQlqStswiPD1Fc3GgCP9R/sbPiilg+l0jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tsebo\\Documents\\projects\\HealthCheck\\HealthCheckAPI\\HealthCheckAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsebo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tsebo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tsebo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tsebo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tsebo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tsebo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
