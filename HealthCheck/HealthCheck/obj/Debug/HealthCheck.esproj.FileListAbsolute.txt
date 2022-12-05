@@ -1,0 +1,2 @@
+C:\Users\tsebo\Documents\projects\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.SuggestedBindingRedirects.cache
+C:\Users\tsebo\Documents\projects\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.CoreCompileInputs.cache
